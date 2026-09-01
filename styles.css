@@ -1,0 +1,12 @@
+/* Global Styles for all HTML files */
+:root {
+  --background-color: #e6f2ff; /* Light blue color */
+}
+
+body {
+  background-color: var(--background-color);
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif; /* Default font for consistency */
+  color: #333; /* Default text color for readability */
+}
