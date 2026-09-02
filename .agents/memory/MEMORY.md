@@ -1,0 +1,1 @@
+- [Replit config validation](replit-config-validation.md) — trust fresh workspace and workflow evidence when completion feedback conflicts with the actual runtime state.
